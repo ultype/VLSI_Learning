@@ -1,6 +1,6 @@
 VFLAG := +acc
 
-MODULE_PATH := ./module
+MODULE_PATH := ./modules
 TEST_PATH := ./testbench
 
 MODULE    = $(wildcard $(MODULE_PATH)/*.v)

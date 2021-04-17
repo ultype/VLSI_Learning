@@ -5,3 +5,5 @@ view wave
 
 delete wave *
 add wave *
+
+run -all

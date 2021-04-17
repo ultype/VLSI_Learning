@@ -12,3 +12,7 @@ make sim
 
 ## Modelsim simulation settiing
 $ vsim> do setting.do
+
+
+# Lesson1 Majority
+# Lesson2 Combinatioan Module
